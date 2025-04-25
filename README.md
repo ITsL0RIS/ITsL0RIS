@@ -1,5 +1,7 @@
 ## Atividade de Front-end - UTFPR
 
+Curriculo em HTML
+Link: https://itsl0ris.github.io/ITsL0RIS/
 <!--
 **ITsL0RIS/ITsL0RIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
